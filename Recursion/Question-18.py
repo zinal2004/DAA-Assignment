@@ -1,4 +1,4 @@
-ef geek_onacci(A, B, C, N, memo):
+def geek_onacci(A, B, C, N, memo):
     if N == 1:
         return A
     if N == 2:
